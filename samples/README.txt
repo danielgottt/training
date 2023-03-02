@@ -8,3 +8,10 @@ c:\users\XXXXX\appdata\local\microsoft\windows\inetcache\content.outlook\7bxy503
 2023-02-17T06:58:48Z	XXXXX	◄◄ OUTLOOK.EXE	"C:\Program Files (x86)\Microsoft Office\Office16\OUTLOOK.exe" 	4680:133210907287456127
 2023-02-17T09:24:45Z	XXXXX	◄ EXCEL.EXE	"C:\Program Files (x86)\Microsoft Office\Office16\EXCEL.EXE" /dde	53692:133210994856223398
 2023-02-17T09:25:32Z	XXXXX	explorer.exe	"C:\Windows\System32\explorer.exe" "C:\Users\XXXXX\AppData\Roaming\Microsoft\Excel\XLSTART\..\..\..\..\..\Sheet1260.txttxttxt.jse"	35348:133210995329392424
+
+
+
+C:\Users\XXXXX\Sheet1260.txttxttxt.jse
+
+C:\Windows\System32\WScript.exe
+141.98.214[.]14:443
